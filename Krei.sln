@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krei.ConsoleUI", "Krei.ConsoleUI\Krei.ConsoleUI.csproj", "{6463C9E9-C27F-430D-9297-473239082D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krei.Data", "Krei.Data\Krei.Data.csproj", "{16C9E96C-2FF0-4CA7-8339-4714FC953D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{0965A04C-DC4C-4DFC-8748-A7DD6ADAE743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6463C9E9-C27F-430D-9297-473239082D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6463C9E9-C27F-430D-9297-473239082D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6463C9E9-C27F-430D-9297-473239082D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6463C9E9-C27F-430D-9297-473239082D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C9E96C-2FF0-4CA7-8339-4714FC953D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C9E96C-2FF0-4CA7-8339-4714FC953D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C9E96C-2FF0-4CA7-8339-4714FC953D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C9E96C-2FF0-4CA7-8339-4714FC953D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0965A04C-DC4C-4DFC-8748-A7DD6ADAE743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0965A04C-DC4C-4DFC-8748-A7DD6ADAE743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0965A04C-DC4C-4DFC-8748-A7DD6ADAE743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0965A04C-DC4C-4DFC-8748-A7DD6ADAE743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
